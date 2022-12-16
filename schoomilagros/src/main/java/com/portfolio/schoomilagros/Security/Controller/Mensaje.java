@@ -9,10 +9,10 @@ package com.portfolio.schoomilagros.Security.Controller;
  * @author milag
  */
 public class Mensaje {
-    private String mensaje;
-    
-    //Constructor
 
+    private String mensaje;
+
+    //Constructores
     public Mensaje() {
     }
 
@@ -28,5 +28,5 @@ public class Mensaje {
     public void setMensaje(String mensaje) {
         this.mensaje = mensaje;
     }
-    
+
 }
